@@ -1,0 +1,22 @@
+<?php
+echo "<!DOCTYPE html>";
+echo "<html lang='ar' dir='rtl'>";
+echo "<head>";
+echo "<meta charset='UTF-8'>";
+echo "<meta name='viewport' content='width=device-width, initial-scale=1.0'>";
+echo "<title>مؤسسة إدراك للتنمية</title>";
+echo "<style>";
+echo "body { font-family: 'Arial', sans-serif; background-color: #f5f5f5; color: #333; padding: 20px; text-align: center; }";
+echo "header { background: #005baa; color: white; padding: 20px; }";
+echo "footer { background: #333; color: white; padding: 15px; margin-top: 40px; }";
+echo "</style>";
+echo "</head>";
+echo "<body>";
+echo "<header><h1>مؤسسة إدراك للتنمية</h1><p>نحو تنمية شاملة ومستدامة</p></header>";
+echo "<main>";
+echo "<h2>مرحبًا بكم في موقعنا</h2>";
+echo "<p>نعمل على تمكين المجتمعات وتعزيز التنمية المستدامة في مجالات التعليم، الصحة، التمكين، والحماية.</p>";
+echo "</main>";
+echo "<footer>&copy; 2025 مؤسسة إدراك للتنمية. جميع الحقوق محفوظة.</footer>";
+echo "</body></html>";
+?>
